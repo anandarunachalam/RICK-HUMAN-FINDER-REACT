@@ -59,7 +59,7 @@ class ContentView extends React.Component {
                         
                         <div className="row">
                             <div className="col-md-12 col-sm-12 p-t-md">
-                                <h4 className="">Selected Filters</h4>
+                                <h6 className="">Search by Name</h6>
                            </div>
                            <div className="col-md-10 col-sm-12">
                               <div className="input-group">
